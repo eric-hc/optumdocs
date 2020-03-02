@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Optum Open Source',
   tagline: 'Collaborating Well to Solve the Biggest Problems in Healthcare',
-  url: 'https://optum.github.io/OptumDocs',
-  baseUrl: '/OptumDocs/',
+  url: 'https://optum.github.io/optumdocs',
+  baseUrl: '/optumdocs/',
   favicon: 'img/favicon.ico',
   organizationName: 'Optum', // Usually your GitHub org/user name.
-  projectName: 'OptumDocs', // Usually your repo name.
+  projectName: 'optumdocs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Optum Open Source',
