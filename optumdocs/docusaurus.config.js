@@ -1,9 +1,9 @@
 module.exports = {
   title: 'Optum Open Source',
-  tagline: 'Collaborating Well to Solve the Biggest Problems in Healthcare',
+  tagline: 'Open Collaboration to Solve the Biggest Problems in Healthcare',
   url: 'https://optum.github.io/optumdocs',
   baseUrl: '/optumdocs/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/open_source.svg',
   organizationName: 'Optum', // Usually your GitHub org/user name.
   projectName: 'optumdocs', // Usually your repo name.
   themeConfig: {
@@ -14,9 +14,10 @@ module.exports = {
         src: 'img/Optum(R)_4C.png',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
+        {to: 'docs/optumprojects', label: 'Projects', position: 'left'},
+        {to: 'docs/optumcontributions', label: 'Upstream Engineering', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Optum',
           label: 'GitHub',
           position: 'right',
         },
@@ -29,34 +30,46 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'Optum Projects',
+              to: 'docs/optumprojects',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Upstream Engineering',
+              to: 'docs/optumcontributions',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Administration',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Contributor Code of Conduct',
+              to: 'docs/optumcoc',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Individual Contributor License Agreement',
+              to: 'docs/optumicla',
+            },
+            {
+              label: 'Project Licensing',
+              to: 'docs/optumlic',
             },
           ],
         },
         {
-          title: 'Social',
+          title: 'Work With Us',
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Optum',
+            },
+            {
+              label: 'opensource@optum.com',
+              href: 'mailto:opensource@optum.com',
+            },
+            {
+              label: 'Career Opportunities',
+              href: 'https://careers.unitedhealthgroup.com/search-jobs?kw=&sp=&re=US&jf=20',
             },
           ],
         },
