@@ -13,8 +13,16 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 ---
 ## How to Contribute
 
-1. Please see Docusaurus 2 installation [instructions](/optumdocs/README.md).
-1. Use your local development environment to test changes.
+### Requirements
+- [Node.js](https://nodejs.org/en/download/) version >= 10.9.0 or above (which can be checked by running node -v). You can use nvm for managing multiple Node versions on a single machine installed
+- [Yarn](https://classic.yarnpkg.com/en/) version >= 1.5 (which can be checked by running yarn version). Yarn is a performant package manager for JavaScript and replaces the npm client. It is not strictly necessary but highly encouraged.
+
+
+1. Clone this repository.
+1. Navigate to the ```optumdocs``` folder inside the cloned OptumDocs repo
+1. ```yarn install```
+1. ```yarn start```
+1. Use your local development environment to make and test changes.
 1. When ready, submit a PR against the ```gh-pages-source``` branch so your changes can be reviewed.
 1. OptumDocs maintainers will build and deploy your changes once accepted.
 
