@@ -8,32 +8,35 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Who we are</>,
+    imageUrl: 'img/family.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        OptumTech is a world-wide team, 28K strong, committed to solving the
+        most challenging problems in healthcare with open source technologies.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Our Community Projects</>,
+    imageUrl: 'img/coder.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This is the home for original projects created in the course of our daily
+        work and now shared with the open source community.  We welcome your
+        involvement to grow and shape our efforts.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Get involved</>,
+    imageUrl: 'img/deploy.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our communities are growing.  Choose a project and get involved at any level
+        from documentation to testing to code.  Our projects are released
+        with a Contributor Code of Conduct and your contributions are subject to
+        a project Contributor License Agreement.
       </>
     ),
   },
@@ -71,7 +74,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/doc1')}>
+              to={useBaseUrl('docs/optumprojects')}>
               Get Started
             </Link>
           </div>
