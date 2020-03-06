@@ -73,8 +73,21 @@ module.exports = {
             },
           ],
         },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Optum, Inc. Built with Docusaurus.`,
+        {
+          title: 'Legal',
+          items: [
+          {
+            label: `Terms of use`,
+            href: `https://www.optum.com/terms-of-use.html`,
+          },
+          {
+            label: `Privacy`,
+            href: `https://www.optum.com/privacy-policy.html`,
+          },
+        ],
+      },
+    ],
+      copyright: `Copyright © ${new Date().getFullYear()} Optum, Inc. Built with Docusaurus.`
     },
   },
   presets: [
