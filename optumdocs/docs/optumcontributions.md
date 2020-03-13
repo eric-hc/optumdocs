@@ -135,7 +135,6 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2020-02-20 | [Feature/static code security scanner](https://github.com/Optum/dce-cli/pull/74) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2020-02-24 | [Feature/linting](https://github.com/Optum/dce-cli/pull/75) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2020-03-06 | [removed leases create log statement](https://github.com/Optum/dce-cli/pull/79) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | marinatedpork | Matt Meyers | 2019-11-27 | [Adds license. Removes main.go header with license text.](https://github.com/Optum/dce-cli/pull/39) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | marissaAnn | null | 2020-02-03 | [Add trademark for product name](https://github.com/Optum/dce-cli/pull/66) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2019-12-12 | [#35: added code to handle the --expires-on flag for `dce leases create`](https://github.com/Optum/dce-cli/pull/51) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-01-10 | [Use local main.tf by default](https://github.com/Optum/dce-cli/pull/59) |
@@ -228,14 +227,6 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2020-03-04 | [Feature/usage2.0 add state_end_lease to dashboard](https://github.com/Optum/dce/pull/310) |
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2020-03-04 | [Feature/usage2.0 end_over_budget_lease unit test](https://github.com/Optum/dce/pull/308) |
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2020-03-09 | [Feature/integration testing script](https://github.com/Optum/dce/pull/301) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-06-17 | [Migrates source code to public repository.](https://github.com/Optum/dce/pull/1) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-06-18 | [Migrates README.](https://github.com/Optum/dce/pull/2) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-06-19 | [Removes Python / Tensorflow explanations from the CONTRIBUTING.md.](https://github.com/Optum/dce/pull/3) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-10-08 | [Feature/get leases](https://github.com/Optum/dce/pull/46) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-10-23 | [Bugfix/add ecr to policy](https://github.com/Optum/dce/pull/74) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-10-23 | [Lease added SNS topics updates principal policy.](https://github.com/Optum/dce/pull/65) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-10-29 | [Fixes types in AWS dynamo DB requests.](https://github.com/Optum/dce/pull/86) |
-| [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-11-05 | [Deprecates Redbox name.](https://github.com/Optum/dce/pull/101) |
 | [Optum/dce](https://github.com/Optum/dce) | marissaAnn | null | 2020-01-31 | [Add trademark for product name ](https://github.com/Optum/dce/pull/256) |
 | [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-09-26 | [Name changes and documentation updates to README.md for configuration…](https://github.com/Optum/dce/pull/38) |
 | [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-09-27 | [Fix/destroyscript](https://github.com/Optum/dce/pull/39) |
@@ -510,6 +501,7 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-04 | [Updates to contribution instructions](https://github.com/Optum/optumdocs/pull/4) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-06 | [add terms of use and privacy policy notices](https://github.com/Optum/optumdocs/pull/5) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-09 | [Clean up docs and fix knack link](https://github.com/Optum/optumdocs/pull/7) |
+| [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-13 | [update contributions file](https://github.com/Optum/optumdocs/pull/8) |
 | [Optum/Snap](https://github.com/Optum/Snap) | phatfly | null | 2020-02-07 | [Bug fixes and new features](https://github.com/Optum/Snap/pull/1) |
 | [Optum/Snap](https://github.com/Optum/Snap) | phatfly | null | 2020-02-09 | [Finished adding support for signing Android apk.](https://github.com/Optum/Snap/pull/2) |
 | [Optum/Snap](https://github.com/Optum/Snap) | phatfly | null | 2020-02-09 | [updated read me](https://github.com/Optum/Snap/pull/3) |
