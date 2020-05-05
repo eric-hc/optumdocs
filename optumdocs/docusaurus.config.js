@@ -17,6 +17,11 @@ module.exports = {
         {to: 'docs/optumprojects', label: 'Projects', position: 'left'},
         {to: 'docs/optumcontributions', label: 'Upstream Engineering', position: 'left'},
         {
+           href: 'https://www.youtube.com/watch?v=9sdASFlw0As',
+           label: 'Why Contribute to Open Source?',
+           position: 'right',
+        },
+        {
           href: 'https://github.com/Optum',
           label: 'GitHub',
           position: 'right',
