@@ -5,48 +5,124 @@ sidebar_label: Optum Projects
 ---
 
 ## Optum Active Repositories
+
 | Project | Description | Owners | Forks | Stars | Watches |
 | --- | --- | --- | --- | --- | --- |
-| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | Nuke a whole AWS account and delete all its resources. | rcyrus(Rajeev Cyrus), nathanagood(Nathan A. Good), eschwartz(Edan Schwartz), robologic(Ranjan), marissaAnn(null), NoahMundahl(null), anejmeh(null), McAntMan(Anthony Khounlo), AmudaPalani(Amudha Palani), optum-dce(Optum DCE) | 1 | 3 | 2 |
-| [Optum/barista](https://github.com/Optum/barista) | project barista - open source license and vulnerability management | amyschoen(Amy Schoen), pkn4645(P. Kevin Nelson), rolinge(Randy Olinger), woodrbe(Ben Woodring) | 4 | 14 | 3 |
-| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | A Neo4j Plugin for Handling HL7 FHIR Data | DMadrid(Dan Madrid), lironbenjamin(null), MatthewFrisby(Matthew Frisby), tyleryam(null) | 0 | 4 | 4 |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | Disposable Cloud Environment CLI | rcyrus(Rajeev Cyrus), nathanagood(Nathan A. Good), eschwartz(Edan Schwartz), robologic(Ranjan), marissaAnn(null), NoahMundahl(null), anejmeh(null), McAntMan(Anthony Khounlo), AmudaPalani(Amudha Palani), optum-dce(Optum DCE) | 5 | 8 | 8 |
-| [Optum/dce](https://github.com/Optum/dce) | Disposable Cloud Environment | rcyrus(Rajeev Cyrus), nathanagood(Nathan A. Good), eschwartz(Edan Schwartz), robologic(Ranjan), marissaAnn(null), NoahMundahl(null), anejmeh(null), McAntMan(Anthony Khounlo), AmudaPalani(Amudha Palani), optum-dce(Optum DCE) | 23 | 86 | 12 |
-| [Optum/faas-swagger](https://github.com/Optum/faas-swagger) | Swagger for Openfaas | itsmurugappan(Murugappan Chetty), wei91007(null) | 1 | 11 | 3 |
-| [Optum/giraffle](https://github.com/Optum/giraffle) | Gradle Plugin for Tigergraph | jmeekhof(Josh Meekhof) | 6 | 6 | 7 |
-| [Optum/iDempiereAttachmentOpenKM](https://github.com/Optum/iDempiereAttachmentOpenKM) | IDempiere OpenKM Attachment Provider Plugin for setting up OpenKM dms as attachment store | mangalsinh25(Mangalsinh), MS257(MS257) | 0 | 0 | 1 |
-| [Optum/iDempiereTheme](https://github.com/Optum/iDempiereTheme) | IDempiere Theme Plugin for change UI/UX theme of idempiere | mangalsinh25(Mangalsinh), MS257(MS257) | 0 | 0 | 1 |
-| [Optum/knack](https://github.com/Optum/knack) | A streamlined wrapper around node-rdkafka made with independent composable parts. | Wires77(Trevor Lund), mtintes(Mike Tintes), seesharpguy(Ryan Sites), misterlantz(Chris Lantz), experimentalinsanity(Jeff DeFauw) | 2 | 14 | 8 |
-| [Optum/kong-cluster-drain](https://github.com/Optum/kong-cluster-drain) | Drain and divert your traffic without briging down the LTM and interrupting existing traffic by a switch that allows failing your healthcheck to a datacenter. | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 0 | 1 | 11 |
-| [Optum/kong-error-log](https://github.com/Optum/kong-error-log) | Expose NGINX error logs for Kong lua plugin consumption | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 2 | 2 | 7 |
+| [Optum/Adaptable-PCA-Driver](https://github.com/Optum/Adaptable-PCA-Driver) | null | danguite(null) | 0 | 0 | 1 |
+| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | Nuke a whole AWS account and delete all its resources. | rcyrus(Rajeev Cyrus), robologic(Ranjan), marissaAnn(null), NoahMundahl(null), anejmeh(null), McAntMan(Anthony Khounlo), AmudaPalani(Amudha Palani), jayanandagit(null), optum-dce(Optum DCE) | 1 | 3 | 2 |
+| [Optum/barista](https://github.com/Optum/barista) | project barista - open source license and vulnerability management | amyschoen(Amy Schoen), pkn4645(P. Kevin Nelson), rolinge(Randy Olinger), woodrbe(Ben Woodring) | 6 | 15 | 3 |
+| [Optum/cdc](https://github.com/Optum/cdc) | null | p-oshea(null) | 0 | 0 | 1 |
+| [Optum/CrisisCrawlerClient](https://github.com/Optum/CrisisCrawlerClient) | null | p-oshea(null) | 0 | 0 | 1 |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | A Neo4j Plugin for Handling HL7 FHIR Data | DMadrid(Dan Madrid), lironbenjamin(null), MatthewFrisby(Matthew Frisby), tyleryam(null) | 0 | 9 | 4 |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | Disposable Cloud Environment CLI | rcyrus(Rajeev Cyrus), robologic(Ranjan), marissaAnn(null), NoahMundahl(null), anejmeh(null), McAntMan(Anthony Khounlo), AmudaPalani(Amudha Palani), jayanandagit(null), optum-dce(Optum DCE) | 5 | 9 | 8 |
+| [Optum/dce](https://github.com/Optum/dce) | Disposable Cloud Environment | rcyrus(Rajeev Cyrus), robologic(Ranjan), marissaAnn(null), NoahMundahl(null), anejmeh(null), McAntMan(Anthony Khounlo), AmudaPalani(Amudha Palani), jayanandagit(null), optum-dce(Optum DCE) | 27 | 91 | 12 |
+| [Optum/faas-swagger](https://github.com/Optum/faas-swagger) | Swagger for Openfaas | itsmurugappan(Murugappan Chetty), wei91007(null) | 1 | 12 | 3 |
+| [Optum/giraffle](https://github.com/Optum/giraffle) | Gradle Plugin for Tigergraph | jmeekhof(Josh Meekhof) | 6 | 7 | 7 |
+| [Optum/iDempiereAttachmentOpenKM](https://github.com/Optum/iDempiereAttachmentOpenKM) | IDempiere OpenKM Attachment Provider Plugin for setting up OpenKM dms as attachment store | mangalsinh25(Mangalsinh), MS257(MS257) | 3 | 1 | 2 |
+| [Optum/iDempiereTheme](https://github.com/Optum/iDempiereTheme) | IDempiere Theme Plugin for change UI/UX theme of idempiere | mangalsinh25(Mangalsinh), MS257(MS257) | 2 | 1 | 2 |
+| [Optum/knack](https://github.com/Optum/knack) | A streamlined wrapper around node-rdkafka made with independent composable parts. | Wires77(Trevor Lund), mtintes(Mike Tintes), seesharpguy(Ryan Sites), misterlantz(Chris Lantz), JD-xpi13(JD DeFauw) | 2 | 14 | 8 |
+| [Optum/kong-cluster-drain](https://github.com/Optum/kong-cluster-drain) | Drain and divert your traffic without briging down the LTM and interrupting existing traffic by a switch that allows failing your healthcheck to a datacenter. | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 1 | 1 | 9 |
+| [Optum/kong-error-log](https://github.com/Optum/kong-error-log) | Expose NGINX error logs for Kong lua plugin consumption | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 4 | 2 | 7 |
 | [Optum/kong-expired-token-cleanup](https://github.com/Optum/kong-expired-token-cleanup) | A simple python script to manage expired token deletion in a Kong cassandra database, and notify admins via email afterwards. | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 0 | 2 | 11 |
-| [Optum/kong-kafka-log](https://github.com/Optum/kong-kafka-log) | Log Kong Transactions to Kafka | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 1 | 2 | 3 |
-| [Optum/kong-oidc-auth](https://github.com/Optum/kong-oidc-auth) | OpenID Connect authentication with Kong gateway | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 11 | 25 | 14 |
+| [Optum/kong-kafka-log](https://github.com/Optum/kong-kafka-log) | Log Kong Transactions to Kafka | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 1 | 4 | 4 |
+| [Optum/kong-oidc-auth](https://github.com/Optum/kong-oidc-auth) | OpenID Connect authentication with Kong gateway | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 12 | 26 | 13 |
 | [Optum/kong-path-based-routing](https://github.com/Optum/kong-path-based-routing) | Used to support modifying the routing hostname based on parameters extracted from the request path | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 4 | 1 | 11 |
-| [Optum/kong-response-size-limiting](https://github.com/Optum/kong-response-size-limiting) | Block responses with bodies greater than a specified size | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 2 | 0 | 8 |
-| [Optum/kong-service-virtualization](https://github.com/Optum/kong-service-virtualization) | Mock virtual API request and response pairs through Kong gateway | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 3 | 6 | 12 |
-| [Optum/kong-spec-expose](https://github.com/Optum/kong-spec-expose) | Plugin to expose the specification/contract of auth protected API services fronted by the Kong gateway | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 1 | 5 | 9 |
-| [Optum/kong-splunk-log](https://github.com/Optum/kong-splunk-log) | Kong plugin designed to log API transactions to Splunk. | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 3 | 4 | 9 |
-| [Optum/kong-upstream-jwt](https://github.com/Optum/kong-upstream-jwt) | A plugin for Kong which adds a signed JWT to HTTP Headers to backend requests | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 13 | 22 | 10 |
+| [Optum/kong-response-size-limiting](https://github.com/Optum/kong-response-size-limiting) | Block responses with bodies greater than a specified size | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 3 | 0 | 8 |
+| [Optum/kong-service-virtualization](https://github.com/Optum/kong-service-virtualization) | Mock virtual API request and response pairs through Kong gateway | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 4 | 6 | 10 |
+| [Optum/kong-spec-expose](https://github.com/Optum/kong-spec-expose) | Plugin to expose the specification/contract of auth protected API services fronted by the Kong gateway | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 2 | 5 | 9 |
+| [Optum/kong-splunk-log](https://github.com/Optum/kong-splunk-log) | Kong plugin designed to log API transactions to Splunk. | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 3 | 5 | 9 |
+| [Optum/kong-upstream-jwt](https://github.com/Optum/kong-upstream-jwt) | A plugin for Kong which adds a signed JWT to HTTP Headers to backend requests | rsbrisci(Ross Sbriscia), jeremyjpj0916(null) | 13 | 23 | 10 |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | A web-based platform for API virtualization | zparks(Zak Parks), Pradeep298(Pradeep Singh), jhymasree(null), tuongviho(null), rrachur(null), johnlegeyt(null) | 7 | 17 | 11 |
-| [Optum/openid-client-server](https://github.com/Optum/openid-client-server) | null | Wires77(Trevor Lund), mtintes(Mike Tintes), seesharpguy(Ryan Sites), misterlantz(Chris Lantz), experimentalinsanity(Jeff DeFauw) | 0 | 0 | 6 |
-| [Optum/retain-keras](https://github.com/Optum/retain-keras) | Reimplementation of RETAIN Recurrent Neural Network in Keras | jstremme(Joel Stremmel) | 24 | 42 | 12 |
+| [Optum/openid-client-server](https://github.com/Optum/openid-client-server) | An OpenId Relying Party (RP, Client) application server. | Wires77(Trevor Lund), mtintes(Mike Tintes), seesharpguy(Ryan Sites), misterlantz(Chris Lantz), JD-xpi13(JD DeFauw) | 0 | 0 | 6 |
+| [Optum/retain-keras](https://github.com/Optum/retain-keras) | Reimplementation of RETAIN Recurrent Neural Network in Keras | jstremme(Joel Stremmel) | 24 | 46 | 12 |
 | [Optum/Snap](https://github.com/Optum/Snap) | null | phatfly(null) | 0 | 1 | 2 |
 | [Optum/stash](https://github.com/Optum/stash) | null | alephnot0(RJ Seibert) | 1 | 1 | 10 |
 
-## Contributors Outside Optum
+# Contributors Outside Optum
 | Project | User | Name | Date | PR |
 | --- | --- | --- | --- | --- |
+| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-02-04 | [Add support for Athena WorkGroups and NamedQueries](https://github.com/Optum/aws-nuke/pull/3) |
+| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-02-05 | [Changelog bump v1.1.0](https://github.com/Optum/aws-nuke/pull/4) |
+| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-04-06 | [Merge rebuy-de/aws-nuke](https://github.com/Optum/aws-nuke/pull/6) |
+| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-04-20 | [Update changelog for v1.2.0](https://github.com/Optum/aws-nuke/pull/7) |
+| [Optum/barista](https://github.com/Optum/barista) | andreas-bauer | Andreas Bauer | 2020-06-04 | [Fix wrong docker-compose cmd in barista-on-docker doc](https://github.com/Optum/barista/pull/103) |
 | [Optum/barista](https://github.com/Optum/barista) | vsurge | null | 2020-01-27 | [Remove sysconfig](https://github.com/Optum/barista/pull/31) |
 | [Optum/barista](https://github.com/Optum/barista) | vsurge | null | 2020-01-31 | [Golang license scanner](https://github.com/Optum/barista/pull/37) |
 | [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | DMadrid | Dan Madrid | 2020-04-30 | [Add logo and update readme](https://github.com/Optum/CyFHIR/pull/3) |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | DMadrid | Dan Madrid | 2020-05-08 | [US1](https://github.com/Optum/CyFHIR/pull/9) |
 | [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-04-29 | [Release: Code Preparation](https://github.com/Optum/CyFHIR/pull/1) |
 | [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-04-30 | [Documentation](https://github.com/Optum/CyFHIR/pull/2) |
 | [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-05-04 | [paperwork updates](https://github.com/Optum/CyFHIR/pull/5) |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-05-08 | [User/dmadrid/us1](https://github.com/Optum/CyFHIR/pull/8) |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-05-13 | [Pages](https://github.com/Optum/CyFHIR/pull/10) |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-05-14 | [Handshake](https://github.com/Optum/CyFHIR/pull/11) |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-05-27 | [Restructure Code](https://github.com/Optum/CyFHIR/pull/13) |
+| [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | MatthewFrisby | Matthew Frisby | 2020-06-08 | [Resource Expansion and toTree in bundle.build Function](https://github.com/Optum/CyFHIR/pull/15) |
 | [Optum/CyFHIR](https://github.com/Optum/CyFHIR) | tyleryam | null | 2020-04-30 | [Suggested revisions](https://github.com/Optum/CyFHIR/pull/4) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | drmmarsunited | Mitch Robins | 2020-02-06 | [Adding version command support to DCE-CLI](https://github.com/Optum/dce-cli/pull/68) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2019-11-20 | [Remove master account creds from dce.yml](https://github.com/Optum/dce-cli/pull/36) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2019-11-22 | [Fix typo for "principle" --> "principal"](https://github.com/Optum/dce-cli/pull/34) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2019-11-25 | [Add `dce auth`; Refactor Config file mgmt; Add integration tests](https://github.com/Optum/dce-cli/pull/38) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-17 | [Regenerate swagger client from DCE master](https://github.com/Optum/dce-cli/pull/72) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-19 | [Support `dce leases login` (no Lease ID)](https://github.com/Optum/dce-cli/pull/73) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-26 | [Accept DCE version configuration](https://github.com/Optum/dce-cli/pull/76) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-26 | [Fix --expires-on flag parsing](https://github.com/Optum/dce-cli/pull/78) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-03-16 | [Document migration notes for v0.3.1](https://github.com/Optum/dce-cli/pull/69) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | marinatedpork | Matt Meyers | 2019-11-27 | [Adds license. Removes main.go header with license text.](https://github.com/Optum/dce-cli/pull/39) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2019-12-12 | [#35: added code to handle the --expires-on flag for `dce leases create`](https://github.com/Optum/dce-cli/pull/51) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-01-10 | [Use local main.tf by default](https://github.com/Optum/dce-cli/pull/59) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-01-27 | [Feature #54 ](https://github.com/Optum/dce-cli/pull/65) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-02-20 | [Fix for #11](https://github.com/Optum/dce-cli/pull/71) |
+| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-04-06 | [Feature/upgrade dce to 29](https://github.com/Optum/dce-cli/pull/82) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-07-02 | [Merge in changes from Optum fork, including releases v0.5.0 --> v0.8.0 +](https://github.com/Optum/dce/pull/6) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-20 | [Pull in code from Optum fork, for v0.9.0 to v0.13.0](https://github.com/Optum/dce/pull/7) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-21 | [CI: Publish a Github release on tagged commits](https://github.com/Optum/dce/pull/11) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-21 | [Repo sync (FINAL)](https://github.com/Optum/dce/pull/13) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-23 | [Fix CI triggers, to build on tags](https://github.com/Optum/dce/pull/14) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-26 | [WIP: Fix namespace in tagged release](https://github.com/Optum/dce/pull/15) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-09-04 | [Reimplement code coverage in tests](https://github.com/Optum/dce/pull/21) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-08 | [Fix camelCasing on GET /leases results](https://github.com/Optum/dce/pull/48) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-18 | [Merge release v0.18.1 (hotfix) back into master](https://github.com/Optum/dce/pull/64) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-18 | [PrincipalPolicy: Allow full access to CloudWatch Logs](https://github.com/Optum/dce/pull/61) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-25 | [Release/v0.19.0](https://github.com/Optum/dce/pull/78) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-29 | [DB migration to fix wrongly expired leases](https://github.com/Optum/dce/pull/85) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-31 | [Release/v0.20.0](https://github.com/Optum/dce/pull/89) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-04 | [Rename DB tables (remove "Redbox") + Migration](https://github.com/Optum/dce/pull/92) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-04 | [Version bump v0.21.0](https://github.com/Optum/dce/pull/98) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-08 | [Set reset CodeBuild alarm threshold to 10 failures over 5 hours](https://github.com/Optum/dce/pull/110) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-11 | [Leases metadata, and Lease upsert fix](https://github.com/Optum/dce/pull/107) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-11 | [Version bump v0.23.0](https://github.com/Optum/dce/pull/112) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-13 | [Fix TF namespace in builds](https://github.com/Optum/dce/pull/115) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-15 | [POST /accounts with metadata, PUT /accounts/:id](https://github.com/Optum/dce/pull/116) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-18 | [Delete backend.tf](https://github.com/Optum/dce/pull/117) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-20 | [Flesh Out Docs](https://github.com/Optum/dce/pull/131) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-26 | [Fix default budget_notification_from_email tfvar](https://github.com/Optum/dce/pull/144) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-12-04 | [Link to readthedocs.io in Readme](https://github.com/Optum/dce/pull/154) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Expand linters, fix linting errors](https://github.com/Optum/dce/pull/194) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Fix make commands for generating docs](https://github.com/Optum/dce/pull/193) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Fix namespace="$(System.PullRequest.PullRequestNumber)" for tagged releases](https://github.com/Optum/dce/pull/202) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Run builds on tags](https://github.com/Optum/dce/pull/199) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Update changelog for v0.24.0](https://github.com/Optum/dce/pull/175) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-08 | [Pipeline: Fix missing Github release assets](https://github.com/Optum/dce/pull/203) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-10 | [Update changelog for v0.24.1](https://github.com/Optum/dce/pull/212) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-17 | [Changelog update v0.25.0](https://github.com/Optum/dce/pull/226) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-17 | [Fix missing nuke regions / principal budget amount](https://github.com/Optum/dce/pull/222) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-22 | [Update CHANGELOG for v0.26.0](https://github.com/Optum/dce/pull/241) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-27 | [Add `sts:*` to Principal IAM policy + SCP](https://github.com/Optum/dce/pull/245) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-29 | [DCEify PR accounts](https://github.com/Optum/dce/pull/206) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-31 | [Tag v0.27.0 in changelog](https://github.com/Optum/dce/pull/255) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-03 | [Make Usage DB TTL configurable as TF var](https://github.com/Optum/dce/pull/257) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-04 | [Pipeline: end lease on cleanup](https://github.com/Optum/dce/pull/254) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-04 | [Use Optum/aws-nuke fork; upgrade to latest aws-nuke](https://github.com/Optum/dce/pull/265) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-06 | [Allow athena:*, upgrade aws-nuke to v1.1.0](https://github.com/Optum/dce/pull/268) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-10 | [Move service getters to ServiceBuilder struct](https://github.com/Optum/dce/pull/279) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-17 | [Document breaking change in v0.24.0 (aws-nuke --no-dry-run)](https://github.com/Optum/dce/pull/285) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-24 | [CW Dashboard: Fix reset error scraper query](https://github.com/Optum/dce/pull/294) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-27 | [Fix Account status transition](https://github.com/Optum/dce/pull/289) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-03-18 | [Fix to allow budget notification email templates > 4Kb](https://github.com/Optum/dce/pull/318) |
+| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-04-29 | [Upgrade dce-cli in pipeline to v0.5.0](https://github.com/Optum/dce/pull/345) |
 | [Optum/dce](https://github.com/Optum/dce) | jayanandagit | null | 2020-04-16 | [Update tflint version and include for MacOS. (#338)](https://github.com/Optum/dce/pull/339) |
+| [Optum/dce](https://github.com/Optum/dce) | jayanandagit | null | 2020-06-05 | [Bug fix: Wrong date printed when lease started and spend calculated are on the same day. #350](https://github.com/Optum/dce/pull/358) |
 | [Optum/dce](https://github.com/Optum/dce) | kapilt | Kapil Thangavelu | 2019-07-10 | [azure pipeline](https://github.com/Optum/dce/pull/4) |
 | [Optum/dce](https://github.com/Optum/dce) | kddejong | Kevin DeJong | 2019-08-27 | [Deploy local requires a lambda zip file when calling deploy](https://github.com/Optum/dce/pull/16) |
 | [Optum/dce](https://github.com/Optum/dce) | kddejong | Kevin DeJong | 2019-08-27 | [Remove prefix slash for s3 access logs](https://github.com/Optum/dce/pull/19) |
@@ -129,10 +205,59 @@ sidebar_label: Optum Projects
 | [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-10-23 | [Lease added SNS topics updates principal policy.](https://github.com/Optum/dce/pull/65) |
 | [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-10-29 | [Fixes types in AWS dynamo DB requests.](https://github.com/Optum/dce/pull/86) |
 | [Optum/dce](https://github.com/Optum/dce) | marinatedpork | Matt Meyers | 2019-11-05 | [Deprecates Redbox name.](https://github.com/Optum/dce/pull/101) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-09-26 | [Name changes and documentation updates to README.md for configuration…](https://github.com/Optum/dce/pull/38) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-09-27 | [Fix/destroyscript](https://github.com/Optum/dce/pull/39) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-15 | [Feature/auto expiry](https://github.com/Optum/dce/pull/50) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-23 | [Feature/leaseapi refactor](https://github.com/Optum/dce/pull/73) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-24 | [Feature/lease migration](https://github.com/Optum/dce/pull/71) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-25 | [Fix/minor lease api fixes](https://github.com/Optum/dce/pull/75) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-28 | [Fix: resolved issue with lease not having LeaseStatusReasons populate…](https://github.com/Optum/dce/pull/80) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-28 | [Updated CHANGELOG for v.0.19.1](https://github.com/Optum/dce/pull/82) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-29 | [Bug fixes for publishing lease event logging, scheduling popluation o…](https://github.com/Optum/dce/pull/87) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-29 | [Fix/changelog for v0 19 2](https://github.com/Optum/dce/pull/84) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-30 | [Feature/docawesome](https://github.com/Optum/dce/pull/77) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-11-11 | [Feature/query parameter support](https://github.com/Optum/dce/pull/108) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-11-11 | [Initial draft of issue templates](https://github.com/Optum/dce/pull/111) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-11-26 | [Re-adding AWS config util and config obj with signed commits](https://github.com/Optum/dce/pull/142) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-09 | [Added service builder changes and config updates to feature branch.](https://github.com/Optum/dce/pull/156) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-12 | [Fix/broken doc links](https://github.com/Optum/dce/pull/161) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-16 | [Feature/leases query parameters](https://github.com/Optum/dce/pull/157) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-20 | [Cleaned up broken index generation](https://github.com/Optum/dce/pull/172) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-20 | [Fix/broken doc links](https://github.com/Optum/dce/pull/177) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-01-23 | [Added documentation for CLI changes.](https://github.com/Optum/dce/pull/242) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-18 | [Feature/aws nuke doc gen](https://github.com/Optum/dce/pull/317) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-26 | [Added new services supported by fork of AWS Nuke](https://github.com/Optum/dce/pull/323) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-27 | [Developer documenation for setting up local environment](https://github.com/Optum/dce/pull/326) |
+| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-30 | [Feature/add autoscaling to tools](https://github.com/Optum/dce/pull/328) |
 | [Optum/dce](https://github.com/Optum/dce) | wrschneider | Bill Schneider | 2020-02-19 | [added tag:* to policy template](https://github.com/Optum/dce/pull/291) |
 | [Optum/dce](https://github.com/Optum/dce) | wrschneider | Bill Schneider | 2020-03-31 | [added application-autoscaling:*](https://github.com/Optum/dce/pull/327) |
 | [Optum/giraffle](https://github.com/Optum/giraffle) | jonherke | null | 2019-09-25 | [add getting started prereq tip && removed kotlin code snippet](https://github.com/Optum/giraffle/pull/23) |
-| [Optum/knack](https://github.com/Optum/knack) | eric-hc | Eric Carboni | 2019-11-08 | [Update CONTRIBUTING.md](https://github.com/Optum/knack/pull/23) |
+| [Optum/knack](https://github.com/Optum/knack) | JD-xpi13 | JD DeFauw | 2019-07-16 | [Change the main description](https://github.com/Optum/knack/pull/1) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-07-16 | [updated lodash versions based on security alerts and updated ava](https://github.com/Optum/knack/pull/2) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-07-18 | [initial cli impl, docs & related](https://github.com/Optum/knack/pull/3) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-01 | [docs for each package & general enhancements](https://github.com/Optum/knack/pull/9) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-01 | [tests for all & improvements](https://github.com/Optum/knack/pull/8) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [add unit tests for ast, es & json schema](https://github.com/Optum/knack/pull/18) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Bug/add persist cov to circle config](https://github.com/Optum/knack/pull/13) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Bug/circleci codecov](https://github.com/Optum/knack/pull/16) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Bug/circleci codecov](https://github.com/Optum/knack/pull/17) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Feature/cli and avro enhancements](https://github.com/Optum/knack/pull/10) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Feature/repo enhancements](https://github.com/Optum/knack/pull/11) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [moved steps](https://github.com/Optum/knack/pull/15) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [update codecov step to persist coverage](https://github.com/Optum/knack/pull/12) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-19 | [config flag name fix & srOptions included](https://github.com/Optum/knack/pull/20) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-28 | [add documentation around conversion features](https://github.com/Optum/knack/pull/21) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-12-04 | [Release/0.3.1](https://github.com/Optum/knack/pull/25) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-03-30 | [Maintenance/dependency updates](https://github.com/Optum/knack/pull/27) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-03-30 | [Release/v0.4.0](https://github.com/Optum/knack/pull/28) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-04-10 | [Use avsc of custom ast](https://github.com/Optum/knack/pull/29) |
+| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-04-17 | [knack-avro -> ts & misc related changes](https://github.com/Optum/knack/pull/30) |
+| [Optum/kong-cluster-drain](https://github.com/Optum/kong-cluster-drain) | dgresh1 | null | 2020-06-10 | [update schema plug-in version 0.2](https://github.com/Optum/kong-cluster-drain/pull/2) |
+| [Optum/kong-error-log](https://github.com/Optum/kong-error-log) | vinodhini10 | null | 2020-06-10 | [update schema plug-in version 2.0.1](https://github.com/Optum/kong-error-log/pull/2) |
+| [Optum/kong-oidc-auth](https://github.com/Optum/kong-oidc-auth) | vinodhini10 | null | 2020-06-11 | [update schema version](https://github.com/Optum/kong-oidc-auth/pull/2) |
+| [Optum/kong-response-size-limiting](https://github.com/Optum/kong-response-size-limiting) | vinodhini10 | null | 2020-06-11 | [update schema plug-in version 0.3](https://github.com/Optum/kong-response-size-limiting/pull/3) |
+| [Optum/kong-service-virtualization](https://github.com/Optum/kong-service-virtualization) | dgresh1 | null | 2020-06-10 | [update schema plug-in version 0.3](https://github.com/Optum/kong-service-virtualization/pull/1) |
+| [Optum/kong-spec-expose](https://github.com/Optum/kong-spec-expose) | vinodhini10 | null | 2020-06-11 | [upload schema plug-in version 0.3](https://github.com/Optum/kong-spec-expose/pull/4) |
 | [Optum/kong-upstream-jwt](https://github.com/Optum/kong-upstream-jwt) | row1govender | null | 2019-08-02 | [Enhancements to allow configuration of header name and key_id](https://github.com/Optum/kong-upstream-jwt/pull/9) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | jdweeks | JD Weeks | 2018-08-08 | [fix race conditions with docker-compose services, and update README](https://github.com/Optum/mockiato/pull/6) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | jdweeks | JD Weeks | 2018-08-14 | [Refactor for more modular routes and improved readability](https://github.com/Optum/mockiato/pull/12) |
@@ -232,6 +357,8 @@ sidebar_label: Optum Projects
 | [Optum/mockiato](https://github.com/Optum/mockiato) | spant3 | Swati Pant | 2019-07-26 | [updating code for #532 and #527](https://github.com/Optum/mockiato/pull/533) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | spant3 | Swati Pant | 2019-07-31 | [Fix for defect #525 and #526](https://github.com/Optum/mockiato/pull/537) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | spant3 | Swati Pant | 2019-09-16 | [update for issue #546](https://github.com/Optum/mockiato/pull/547) |
+| [Optum/retain-keras](https://github.com/Optum/retain-keras) | msaroufim | Mark Saroufim | 2020-05-31 | [Usability improvements](https://github.com/Optum/retain-keras/pull/11) |
+| [Optum/retain-keras](https://github.com/Optum/retain-keras) | msaroufim | Mark Saroufim | 2020-06-03 | [usability improvements](https://github.com/Optum/retain-keras/pull/12) |
 | [Optum/retain-keras](https://github.com/Optum/retain-keras) | tRosenflanz | Tim Rosenflanz | 2018-03-29 | [Added calibration curves (misc: .png added to outputs of graphs)](https://github.com/Optum/retain-keras/pull/3) |
 | [Optum/retain-keras](https://github.com/Optum/retain-keras) | tRosenflanz | Tim Rosenflanz | 2018-03-29 | [Fixes crashes when use_time flag was not used](https://github.com/Optum/retain-keras/pull/2) |
 
