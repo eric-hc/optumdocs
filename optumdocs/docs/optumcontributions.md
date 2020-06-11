@@ -18,6 +18,9 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [apache/beam](https://github.com/apache/beam) | kyle-winkelman | Kyle Winkelman | 2019-08-16 | [[BEAM-7989] Remove side inputs from CacheVisitor calculation](https://github.com/apache/beam/pull/9357) |
 | [apache/beam](https://github.com/apache/beam) | kyle-winkelman | Kyle Winkelman | 2019-08-19 | [[BEAM-5519] Remove call to groupByKey in Spark Streaming](https://github.com/apache/beam/pull/6511) |
 | [Azure/azure-event-hubs-go](https://github.com/Azure/azure-event-hubs-go) | tiny-dancer | mg | 2020-01-17 | [EPH WebSocket Support](https://github.com/Azure/azure-event-hubs-go/pull/153) |
+| [chakra-ui/chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) | eric-hc | Eric Carboni | 2020-03-18 | [chore: remove lerna-debug.log](https://github.com/chakra-ui/chakra-ui-vue/pull/54) |
+| [chakra-ui/chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) | eric-hc | Eric Carboni | 2020-03-18 | [docs: add link to open issues](https://github.com/chakra-ui/chakra-ui-vue/pull/55) |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | eric-hc | Eric Carboni | 2019-11-11 | [docs(v1): remove exclusive language](https://github.com/facebook/docusaurus/pull/1961) |
 | [githubtraining/caption-this-template](https://github.com/githubtraining/caption-this-template) | amyschoen | Amy Schoen | 2019-01-24 | [Updating description in README.md](https://github.com/githubtraining/caption-this-template/pull/5) |
 | [githubtraining/intro-to-html](https://github.com/githubtraining/intro-to-html) | amyschoen | Amy Schoen | 2020-02-06 | [Fixing rendering](https://github.com/githubtraining/intro-to-html/pull/34) |
 | [githubtraining/intro-to-html](https://github.com/githubtraining/intro-to-html) | amyschoen | Amy Schoen | 2020-02-18 | [Tweaking instructions](https://github.com/githubtraining/intro-to-html/pull/35) |
@@ -25,10 +28,11 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [githubtraining/introduction-to-github](https://github.com/githubtraining/introduction-to-github) | amyschoen | Amy Schoen | 2020-02-06 | [Fixing hard-coded org reference](https://github.com/githubtraining/introduction-to-github/pull/36) |
 | [githubtraining/managing-merge-conflicts](https://github.com/githubtraining/managing-merge-conflicts) | amyschoen | Amy Schoen | 2020-02-06 | [Fixing course link](https://github.com/githubtraining/managing-merge-conflicts/pull/28) |
 | [githubtraining/release-workflow](https://github.com/githubtraining/release-workflow) | amyschoen | Amy Schoen | 2020-03-03 | [Pages enables automatically](https://github.com/githubtraining/release-workflow/pull/128) |
+| [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) | eric-hc | Eric Carboni | 2020-05-08 | [docs: update jamstack case](https://github.com/gridsome/gridsome.org/pull/419) |
+| [gridsome/gridsome](https://github.com/gridsome/gridsome) | eric-hc | Eric Carboni | 2020-05-06 | [docs: update JAMstack -> Jamstack](https://github.com/gridsome/gridsome/pull/1148) |
 | [hashicorp/vault](https://github.com/hashicorp/vault) | tiny-dancer | mg | 2018-09-07 | [resolve incorrect scope](https://github.com/hashicorp/vault/pull/5307) |
 | [hvac/hvac](https://github.com/hvac/hvac) | tiny-dancer | mg | 2018-09-19 | [Namespaces](https://github.com/hvac/hvac/pull/268) |
 | [hvac/hvac](https://github.com/hvac/hvac) | tiny-dancer | mg | 2018-10-31 | [[WIP] identity secrets engine](https://github.com/hvac/hvac/pull/269) |
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | benhymans | Ben Hymans | 2019-12-11 | [MySQL - Option for collecting global variables](https://github.com/influxdata/telegraf/pull/6790) |
 | [knative/client](https://github.com/knative/client) | itsmurugappan | Murugappan Chetty | 2019-11-29 | [tests: Use mock kn client tests for service list and delete](https://github.com/knative/client/pull/527) |
 | [knative/client](https://github.com/knative/client) | itsmurugappan | Murugappan Chetty | 2019-12-10 | [service describe command : Move Cluster URL to --verbose from default output](https://github.com/knative/client/pull/543) |
 | [knative/client](https://github.com/knative/client) | itsmurugappan | Murugappan Chetty | 2019-12-17 | [Add readme for tests (#554)](https://github.com/knative/client/pull/555) |
@@ -41,9 +45,14 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [knative/client](https://github.com/knative/client) | itsmurugappan | Murugappan Chetty | 2020-05-05 | [refactor kn service export to export revisions](https://github.com/knative/client/pull/819) |
 | [knative/docs](https://github.com/knative/docs) | itsmurugappan | Murugappan Chetty | 2020-04-10 | [cert manager installation steps changes](https://github.com/knative/docs/pull/2239) |
 | [knative/docs](https://github.com/knative/docs) | itsmurugappan | Murugappan Chetty | 2020-04-10 | [update cert manager version for using on gcp](https://github.com/knative/docs/pull/2238) |
+| [knative/docs](https://github.com/knative/docs) | itsmurugappan | Murugappan Chetty | 2020-05-23 | [Example for Kafka TLS Authentication](https://github.com/knative/docs/pull/2473) |
+| [knative/docs](https://github.com/knative/docs) | itsmurugappan | Murugappan Chetty | 2020-05-26 | [Kafka binding documentation](https://github.com/knative/docs/pull/2474) |
+| [knative/eventing-contrib](https://github.com/knative/eventing-contrib) | itsmurugappan | Murugappan Chetty | 2020-05-25 | [minor change for cloud events 2.0](https://github.com/knative/eventing-contrib/pull/1260) |
+| [knative/eventing-contrib](https://github.com/knative/eventing-contrib) | itsmurugappan | Murugappan Chetty | 2020-05-29 | [add ko.yaml to specify non root images](https://github.com/knative/eventing-contrib/pull/1237) |
 | [knative/serving](https://github.com/knative/serving) | itsmurugappan | Murugappan Chetty | 2020-01-23 | [add probe path for whitelisting](https://github.com/knative/serving/pull/6505) |
 | [knative/serving](https://github.com/knative/serving) | itsmurugappan | Murugappan Chetty | 2020-02-24 | [Set config in the context for validation admission controller](https://github.com/knative/serving/pull/6938) |
 | [knative/serving](https://github.com/knative/serving) | itsmurugappan | Murugappan Chetty | 2020-04-11 | [change metric pod_name and container_name to pod and container](https://github.com/knative/serving/pull/7351) |
+| [knative/serving](https://github.com/knative/serving) | itsmurugappan | Murugappan Chetty | 2020-05-17 | [update e2e documentation with v1 examples](https://github.com/knative/serving/pull/7973) |
 | [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) | jeremyjpj0916 | null | 2018-04-02 | [Update admin-api.md](https://github.com/Kong/docs.konghq.com/pull/662) |
 | [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) | jeremyjpj0916 | null | 2018-04-02 | [Update admin-api.md](https://github.com/Kong/docs.konghq.com/pull/663) |
 | [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) | jeremyjpj0916 | null | 2018-07-06 | [Update configuration.md with new CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md lb policy info](https://github.com/Kong/docs.konghq.com/pull/779) |
@@ -61,17 +70,20 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Kong/kong](https://github.com/Kong/kong) | jeremyjpj0916 | null | 2019-10-14 | [fix(jwt) handle empty string claims](https://github.com/Kong/kong/pull/5123) |
 | [Kong/kong](https://github.com/Kong/kong) | jeremyjpj0916 | null | 2020-01-31 | [fix(oauth2) handle missing token](https://github.com/Kong/kong/pull/5514) |
 | [micronaut-projects/micronaut-kafka](https://github.com/micronaut-projects/micronaut-kafka) | brianwyka | Brian Wyka | 2020-04-14 | [@KafkaClient Header and Headers Argument Enhancements](https://github.com/micronaut-projects/micronaut-kafka/pull/112) |
-| [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) | eschwartz | Edan Schwartz | 2020-02-06 | [Add support for Athena WorkGroups and NamedQueries](https://github.com/rebuy-de/aws-nuke/pull/464) |
+| [Open-Source-Compliance/Sharing-creates-value](https://github.com/Open-Source-Compliance/Sharing-creates-value) | pkn4645 | P. Kevin Nelson | 2020-05-26 | [add barista tool to the OSS tooling landscape](https://github.com/Open-Source-Compliance/Sharing-creates-value/pull/86) |
+| [release-it/release-it](https://github.com/release-it/release-it) | eric-hc | Eric Carboni | 2019-10-08 | [Update README.md](https://github.com/release-it/release-it/pull/563) |
+| [secretlint/git-hooks](https://github.com/secretlint/git-hooks) | davidasnider | David Snider | 2020-06-10 | [Add file test for IGNORE_GLOBAL_HOOKS](https://github.com/secretlint/git-hooks/pull/1) |
+| [storybookjs/storybook](https://github.com/storybookjs/storybook) | eric-hc | Eric Carboni | 2019-09-24 | [Update README.md](https://github.com/storybookjs/storybook/pull/8167) |
+| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | eric-hc | Eric Carboni | 2019-12-03 | [Docs: update quick start page](https://github.com/taskforcesh/bullmq/pull/78) |
+| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | eric-hc | Eric Carboni | 2019-12-04 | [docs: add github link to what-is-bullmq.md](https://github.com/taskforcesh/bullmq/pull/80) |
+| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | eric-hc | Eric Carboni | 2019-12-17 | [docs: fix typo](https://github.com/taskforcesh/bullmq/pull/93) |
+| [tektoncd/cli](https://github.com/tektoncd/cli) | eric-hc | Eric Carboni | 2019-11-05 | [Update README.md](https://github.com/tektoncd/cli/pull/436) |
 | [terraform-providers/terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) | tiny-dancer | mg | 2019-11-20 | [aws_lambda_event_source_mapping: maximum_batching_window_in_seconds](https://github.com/terraform-providers/terraform-provider-aws/pull/10051) |
 | [terraform-providers/terraform-provider-azuread](https://github.com/terraform-providers/terraform-provider-azuread) | tiny-dancer | mg | 2019-08-20 | [Update application.html.markdown](https://github.com/terraform-providers/terraform-provider-azuread/pull/139) |
 
 # Optum Contributions
 | Project | User | Name | Date | PR |
 | --- | --- | --- | --- | --- |
-| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-02-04 | [Add support for Athena WorkGroups and NamedQueries](https://github.com/Optum/aws-nuke/pull/3) |
-| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-02-05 | [Changelog bump v1.1.0](https://github.com/Optum/aws-nuke/pull/4) |
-| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-04-06 | [Merge rebuy-de/aws-nuke](https://github.com/Optum/aws-nuke/pull/6) |
-| [Optum/aws-nuke](https://github.com/Optum/aws-nuke) | eschwartz | Edan Schwartz | 2020-04-20 | [Update changelog for v1.2.0](https://github.com/Optum/aws-nuke/pull/7) |
 | [Optum/barista](https://github.com/Optum/barista) | amyschoen | Amy Schoen | 2020-05-04 | [Fixing broken email link](https://github.com/Optum/barista/pull/90) |
 | [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-01-23 | [pkn-doc-updates](https://github.com/Optum/barista/pull/25) |
 | [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-01-23 | [Remove deprecated docs](https://github.com/Optum/barista/pull/2) |
@@ -82,10 +94,13 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-02-06 | [Docusaurus Update](https://github.com/Optum/barista/pull/46) |
 | [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-02-10 | [Updates to Docusaurus](https://github.com/Optum/barista/pull/48) |
 | [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-02-17 | [Merge Develop branch for P/2.0 into Master](https://github.com/Optum/barista/pull/53) |
+| [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-05-28 | [update with new docker container instructions](https://github.com/Optum/barista/pull/101) |
+| [Optum/barista](https://github.com/Optum/barista) | pkn4645 | P. Kevin Nelson | 2020-06-09 | [synch up docker compose read me with docusaurus docs](https://github.com/Optum/barista/pull/104) |
 | [Optum/barista](https://github.com/Optum/barista) | rolinge | Randy Olinger | 2020-01-27 | [Feature/rolinge/fix public](https://github.com/Optum/barista/pull/32) |
 | [Optum/barista](https://github.com/Optum/barista) | rolinge | Randy Olinger | 2020-01-27 | [Merge recent changes back to develop...](https://github.com/Optum/barista/pull/33) |
 | [Optum/barista](https://github.com/Optum/barista) | rolinge | Randy Olinger | 2020-01-27 | [taking otu file to match develop branch.](https://github.com/Optum/barista/pull/34) |
 | [Optum/barista](https://github.com/Optum/barista) | rolinge | Randy Olinger | 2020-02-07 | [Feature/rolinge/docs](https://github.com/Optum/barista/pull/47) |
+| [Optum/barista](https://github.com/Optum/barista) | rolinge | Randy Olinger | 2020-05-28 | [Rmolinger/registry](https://github.com/Optum/barista/pull/98) |
 | [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-01-23 | [Update master from Develop](https://github.com/Optum/barista/pull/26) |
 | [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-01-23 | [Update master from develop](https://github.com/Optum/barista/pull/3) |
 | [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-01-24 | [Update for .mailmaps](https://github.com/Optum/barista/pull/27) |
@@ -117,16 +132,16 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-04-27 | [Fix issue with too many LDAP Groups (#84)](https://github.com/Optum/barista/pull/87) |
 | [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-01 | [Docker compose fix](https://github.com/Optum/barista/pull/88) |
 | [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-01 | [Docker/LDAP/Node updates](https://github.com/Optum/barista/pull/89) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-21 | [Update to remove default scan type](https://github.com/Optum/barista/pull/95) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-27 | [Feature/go license fix](https://github.com/Optum/barista/pull/96) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-28 | [Update Dependency Checker](https://github.com/Optum/barista/pull/99) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-28 | [Update Develop from master](https://github.com/Optum/barista/pull/100) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-05-28 | [Update to dotnet 3.1](https://github.com/Optum/barista/pull/102) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-06-05 | [Revert "Upgrade API/Scan to latest packages"](https://github.com/Optum/barista/pull/106) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-06-05 | [Upgrade API/Scan to latest packages](https://github.com/Optum/barista/pull/105) |
+| [Optum/barista](https://github.com/Optum/barista) | woodrbe | Ben Woodring | 2020-06-09 | [Better error handling ](https://github.com/Optum/barista/pull/107) |
 | [Optum/ChaoSlingr](https://github.com/Optum/ChaoSlingr) | amyschoen | Amy Schoen | 2019-03-27 | [Fix trackr](https://github.com/Optum/ChaoSlingr/pull/1) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | amyschoen | Amy Schoen | 2019-12-03 | [Create NOTICE.txt](https://github.com/Optum/dce-cli/pull/46) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2019-11-20 | [Remove master account creds from dce.yml](https://github.com/Optum/dce-cli/pull/36) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2019-11-22 | [Fix typo for "principle" --> "principal"](https://github.com/Optum/dce-cli/pull/34) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2019-11-25 | [Add `dce auth`; Refactor Config file mgmt; Add integration tests](https://github.com/Optum/dce-cli/pull/38) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-17 | [Regenerate swagger client from DCE master](https://github.com/Optum/dce-cli/pull/72) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-19 | [Support `dce leases login` (no Lease ID)](https://github.com/Optum/dce-cli/pull/73) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-26 | [Accept DCE version configuration](https://github.com/Optum/dce-cli/pull/76) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-02-26 | [Fix --expires-on flag parsing](https://github.com/Optum/dce-cli/pull/78) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | eschwartz | Edan Schwartz | 2020-03-16 | [Document migration notes for v0.3.1](https://github.com/Optum/dce-cli/pull/69) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2019-10-07 | [Auth Command](https://github.com/Optum/dce-cli/pull/2) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2019-10-07 | [Moved cli to this repo and refactored](https://github.com/Optum/dce-cli/pull/1) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2019-10-16 | [Deploy & other basic commands](https://github.com/Optum/dce-cli/pull/4) |
@@ -156,11 +171,6 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2020-04-24 | [End lease using lease ID](https://github.com/Optum/dce-cli/pull/83) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | joshmarsh | Joshua Marsh | 2020-04-24 | [Replaced promptui with readline](https://github.com/Optum/dce-cli/pull/84) |
 | [Optum/dce-cli](https://github.com/Optum/dce-cli) | marissaAnn | null | 2020-02-03 | [Add trademark for product name](https://github.com/Optum/dce-cli/pull/66) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2019-12-12 | [#35: added code to handle the --expires-on flag for `dce leases create`](https://github.com/Optum/dce-cli/pull/51) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-01-10 | [Use local main.tf by default](https://github.com/Optum/dce-cli/pull/59) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-01-27 | [Feature #54 ](https://github.com/Optum/dce-cli/pull/65) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-02-20 | [Fix for #11](https://github.com/Optum/dce-cli/pull/71) |
-| [Optum/dce-cli](https://github.com/Optum/dce-cli) | nathanagood | Nathan A. Good | 2020-04-06 | [Feature/upgrade dce to 29](https://github.com/Optum/dce-cli/pull/82) |
 | [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2019-08-21 | [CI: Functional Tests](https://github.com/Optum/dce/pull/10) |
 | [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2019-08-21 | [[WIP] CI pipeline](https://github.com/Optum/dce/pull/9) |
 | [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2019-09-13 | [Usage database](https://github.com/Optum/dce/pull/28) |
@@ -191,53 +201,9 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2020-04-27 | [DCE release v0.30.0](https://github.com/Optum/dce/pull/335) |
 | [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2020-04-27 | [DCE release v0.30.1](https://github.com/Optum/dce/pull/346) |
 | [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2020-04-29 | [script to cleanup accounts pool](https://github.com/Optum/dce/pull/348) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-07-02 | [Merge in changes from Optum fork, including releases v0.5.0 --> v0.8.0 +](https://github.com/Optum/dce/pull/6) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-20 | [Pull in code from Optum fork, for v0.9.0 to v0.13.0](https://github.com/Optum/dce/pull/7) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-21 | [CI: Publish a Github release on tagged commits](https://github.com/Optum/dce/pull/11) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-21 | [Repo sync (FINAL)](https://github.com/Optum/dce/pull/13) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-23 | [Fix CI triggers, to build on tags](https://github.com/Optum/dce/pull/14) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-08-26 | [WIP: Fix namespace in tagged release](https://github.com/Optum/dce/pull/15) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-09-04 | [Reimplement code coverage in tests](https://github.com/Optum/dce/pull/21) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-08 | [Fix camelCasing on GET /leases results](https://github.com/Optum/dce/pull/48) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-18 | [Merge release v0.18.1 (hotfix) back into master](https://github.com/Optum/dce/pull/64) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-18 | [PrincipalPolicy: Allow full access to CloudWatch Logs](https://github.com/Optum/dce/pull/61) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-25 | [Release/v0.19.0](https://github.com/Optum/dce/pull/78) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-29 | [DB migration to fix wrongly expired leases](https://github.com/Optum/dce/pull/85) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-10-31 | [Release/v0.20.0](https://github.com/Optum/dce/pull/89) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-04 | [Rename DB tables (remove "Redbox") + Migration](https://github.com/Optum/dce/pull/92) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-04 | [Version bump v0.21.0](https://github.com/Optum/dce/pull/98) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-08 | [Set reset CodeBuild alarm threshold to 10 failures over 5 hours](https://github.com/Optum/dce/pull/110) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-11 | [Leases metadata, and Lease upsert fix](https://github.com/Optum/dce/pull/107) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-11 | [Version bump v0.23.0](https://github.com/Optum/dce/pull/112) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-13 | [Fix TF namespace in builds](https://github.com/Optum/dce/pull/115) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-15 | [POST /accounts with metadata, PUT /accounts/:id](https://github.com/Optum/dce/pull/116) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-18 | [Delete backend.tf](https://github.com/Optum/dce/pull/117) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-20 | [Flesh Out Docs](https://github.com/Optum/dce/pull/131) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-11-26 | [Fix default budget_notification_from_email tfvar](https://github.com/Optum/dce/pull/144) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2019-12-04 | [Link to readthedocs.io in Readme](https://github.com/Optum/dce/pull/154) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Expand linters, fix linting errors](https://github.com/Optum/dce/pull/194) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Fix make commands for generating docs](https://github.com/Optum/dce/pull/193) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Fix namespace="$(System.PullRequest.PullRequestNumber)" for tagged releases](https://github.com/Optum/dce/pull/202) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Run builds on tags](https://github.com/Optum/dce/pull/199) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-06 | [Update changelog for v0.24.0](https://github.com/Optum/dce/pull/175) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-08 | [Pipeline: Fix missing Github release assets](https://github.com/Optum/dce/pull/203) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-10 | [Update changelog for v0.24.1](https://github.com/Optum/dce/pull/212) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-17 | [Changelog update v0.25.0](https://github.com/Optum/dce/pull/226) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-17 | [Fix missing nuke regions / principal budget amount](https://github.com/Optum/dce/pull/222) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-22 | [Update CHANGELOG for v0.26.0](https://github.com/Optum/dce/pull/241) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-27 | [Add `sts:*` to Principal IAM policy + SCP](https://github.com/Optum/dce/pull/245) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-29 | [DCEify PR accounts](https://github.com/Optum/dce/pull/206) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-01-31 | [Tag v0.27.0 in changelog](https://github.com/Optum/dce/pull/255) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-03 | [Make Usage DB TTL configurable as TF var](https://github.com/Optum/dce/pull/257) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-04 | [Pipeline: end lease on cleanup](https://github.com/Optum/dce/pull/254) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-04 | [Use Optum/aws-nuke fork; upgrade to latest aws-nuke](https://github.com/Optum/dce/pull/265) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-06 | [Allow athena:*, upgrade aws-nuke to v1.1.0](https://github.com/Optum/dce/pull/268) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-10 | [Move service getters to ServiceBuilder struct](https://github.com/Optum/dce/pull/279) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-17 | [Document breaking change in v0.24.0 (aws-nuke --no-dry-run)](https://github.com/Optum/dce/pull/285) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-24 | [CW Dashboard: Fix reset error scraper query](https://github.com/Optum/dce/pull/294) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-02-27 | [Fix Account status transition](https://github.com/Optum/dce/pull/289) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-03-18 | [Fix to allow budget notification email templates > 4Kb](https://github.com/Optum/dce/pull/318) |
-| [Optum/dce](https://github.com/Optum/dce) | eschwartz | Edan Schwartz | 2020-04-29 | [Upgrade dce-cli in pipeline to v0.5.0](https://github.com/Optum/dce/pull/345) |
+| [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2020-06-01 | [Update account status to NotReady for expired lease](https://github.com/Optum/dce/pull/353) |
+| [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2020-06-04 | [DCE Release v0.31.0](https://github.com/Optum/dce/pull/356) |
+| [Optum/dce](https://github.com/Optum/dce) | AmudaPalani | Amudha Palani | 2020-06-09 | [release v0.31.2](https://github.com/Optum/dce/pull/361) |
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2019-10-02 | [Testing new pipeline for destroying PR test environments](https://github.com/Optum/dce/pull/42) |
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2019-11-07 | [Fixed swagger schema syntax on several responses](https://github.com/Optum/dce/pull/106) |
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2019-11-18 | [Setting principal role to trust master acct](https://github.com/Optum/dce/pull/120) |
@@ -263,30 +229,6 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/dce](https://github.com/Optum/dce) | joshmarsh | Joshua Marsh | 2020-04-24 | [Bug: Admins authorized as users due to hardcoded string](https://github.com/Optum/dce/pull/343) |
 | [Optum/dce](https://github.com/Optum/dce) | marissaAnn | null | 2020-01-31 | [Add trademark for product name ](https://github.com/Optum/dce/pull/256) |
 | [Optum/dce](https://github.com/Optum/dce) | marissaAnn | null | 2020-04-07 | [update product introduction](https://github.com/Optum/dce/pull/332) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-09-26 | [Name changes and documentation updates to README.md for configuration…](https://github.com/Optum/dce/pull/38) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-09-27 | [Fix/destroyscript](https://github.com/Optum/dce/pull/39) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-15 | [Feature/auto expiry](https://github.com/Optum/dce/pull/50) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-23 | [Feature/leaseapi refactor](https://github.com/Optum/dce/pull/73) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-24 | [Feature/lease migration](https://github.com/Optum/dce/pull/71) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-25 | [Fix/minor lease api fixes](https://github.com/Optum/dce/pull/75) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-28 | [Fix: resolved issue with lease not having LeaseStatusReasons populate…](https://github.com/Optum/dce/pull/80) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-28 | [Updated CHANGELOG for v.0.19.1](https://github.com/Optum/dce/pull/82) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-29 | [Bug fixes for publishing lease event logging, scheduling popluation o…](https://github.com/Optum/dce/pull/87) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-29 | [Fix/changelog for v0 19 2](https://github.com/Optum/dce/pull/84) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-10-30 | [Feature/docawesome](https://github.com/Optum/dce/pull/77) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-11-11 | [Feature/query parameter support](https://github.com/Optum/dce/pull/108) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-11-11 | [Initial draft of issue templates](https://github.com/Optum/dce/pull/111) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-11-26 | [Re-adding AWS config util and config obj with signed commits](https://github.com/Optum/dce/pull/142) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-09 | [Added service builder changes and config updates to feature branch.](https://github.com/Optum/dce/pull/156) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-12 | [Fix/broken doc links](https://github.com/Optum/dce/pull/161) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-16 | [Feature/leases query parameters](https://github.com/Optum/dce/pull/157) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-20 | [Cleaned up broken index generation](https://github.com/Optum/dce/pull/172) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2019-12-20 | [Fix/broken doc links](https://github.com/Optum/dce/pull/177) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-01-23 | [Added documentation for CLI changes.](https://github.com/Optum/dce/pull/242) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-18 | [Feature/aws nuke doc gen](https://github.com/Optum/dce/pull/317) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-26 | [Added new services supported by fork of AWS Nuke](https://github.com/Optum/dce/pull/323) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-27 | [Developer documenation for setting up local environment](https://github.com/Optum/dce/pull/326) |
-| [Optum/dce](https://github.com/Optum/dce) | nathanagood | Nathan A. Good | 2020-03-30 | [Feature/add autoscaling to tools](https://github.com/Optum/dce/pull/328) |
 | [Optum/faas-swagger](https://github.com/Optum/faas-swagger) | itsmurugappan | Murugappan Chetty | 2019-12-07 | [make file changes, add reverse proxy](https://github.com/Optum/faas-swagger/pull/1) |
 | [Optum/faas-swagger](https://github.com/Optum/faas-swagger) | itsmurugappan | Murugappan Chetty | 2019-12-08 | [Read me changes](https://github.com/Optum/faas-swagger/pull/2) |
 | [Optum/faas-swagger](https://github.com/Optum/faas-swagger) | itsmurugappan | Murugappan Chetty | 2019-12-08 | [update read me](https://github.com/Optum/faas-swagger/pull/3) |
@@ -308,37 +250,21 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/giraffle](https://github.com/Optum/giraffle) | jmeekhof | Josh Meekhof | 2019-12-19 | [Cacert](https://github.com/Optum/giraffle/pull/27) |
 | [Optum/giraffle](https://github.com/Optum/giraffle) | jmeekhof | Josh Meekhof | 2019-12-19 | [Implements support for graphstudio and logdir cli options](https://github.com/Optum/giraffle/pull/28) |
 | [Optum/giraffle](https://github.com/Optum/giraffle) | jmeekhof | Josh Meekhof | 2020-01-03 | [Okhttp](https://github.com/Optum/giraffle/pull/31) |
-| [Optum/knack](https://github.com/Optum/knack) | experimentalinsanity | Jeff DeFauw | 2019-07-16 | [Change the main description](https://github.com/Optum/knack/pull/1) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-07-16 | [updated lodash versions based on security alerts and updated ava](https://github.com/Optum/knack/pull/2) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-07-18 | [initial cli impl, docs & related](https://github.com/Optum/knack/pull/3) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-01 | [docs for each package & general enhancements](https://github.com/Optum/knack/pull/9) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-01 | [tests for all & improvements](https://github.com/Optum/knack/pull/8) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [add unit tests for ast, es & json schema](https://github.com/Optum/knack/pull/18) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Bug/add persist cov to circle config](https://github.com/Optum/knack/pull/13) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Bug/circleci codecov](https://github.com/Optum/knack/pull/16) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Bug/circleci codecov](https://github.com/Optum/knack/pull/17) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Feature/cli and avro enhancements](https://github.com/Optum/knack/pull/10) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [Feature/repo enhancements](https://github.com/Optum/knack/pull/11) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [moved steps](https://github.com/Optum/knack/pull/15) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-13 | [update codecov step to persist coverage](https://github.com/Optum/knack/pull/12) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-19 | [config flag name fix & srOptions included](https://github.com/Optum/knack/pull/20) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-08-28 | [add documentation around conversion features](https://github.com/Optum/knack/pull/21) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2019-12-04 | [Release/0.3.1](https://github.com/Optum/knack/pull/25) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-03-30 | [Maintenance/dependency updates](https://github.com/Optum/knack/pull/27) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-03-30 | [Release/v0.4.0](https://github.com/Optum/knack/pull/28) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-04-10 | [Use avsc of custom ast](https://github.com/Optum/knack/pull/29) |
-| [Optum/knack](https://github.com/Optum/knack) | lxghtless | William Kurth | 2020-04-17 | [knack-avro -> ts & misc related changes](https://github.com/Optum/knack/pull/30) |
+| [Optum/knack](https://github.com/Optum/knack) | eric-hc | Eric Carboni | 2019-11-08 | [Update CONTRIBUTING.md](https://github.com/Optum/knack/pull/23) |
 | [Optum/knack](https://github.com/Optum/knack) | misterlantz | Chris Lantz | 2019-08-13 | [Update config.yml](https://github.com/Optum/knack/pull/14) |
 | [Optum/knack](https://github.com/Optum/knack) | Wires77 | Trevor Lund | 2019-12-04 | [Adding isValid error messaging](https://github.com/Optum/knack/pull/24) |
 | [Optum/knack](https://github.com/Optum/knack) | Wires77 | Trevor Lund | 2020-03-09 | [The error collection callback must be named "errorHook"](https://github.com/Optum/knack/pull/26) |
 | [Optum/kong-cluster-drain](https://github.com/Optum/kong-cluster-drain) | amyschoen | Amy Schoen | 2020-05-04 | [Rename CODE-OF-CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/Optum/kong-cluster-drain/pull/1) |
+| [Optum/kong-cluster-drain](https://github.com/Optum/kong-cluster-drain) | rsbrisci | Ross Sbriscia | 2020-06-11 | [Fix Schema](https://github.com/Optum/kong-cluster-drain/pull/3) |
 | [Optum/kong-error-log](https://github.com/Optum/kong-error-log) | jeremyjpj0916 | null | 2020-02-21 | [Fix, make error match stricter, enforce trim_on being present as well as keyword](https://github.com/Optum/kong-error-log/pull/1) |
 | [Optum/kong-expired-token-cleanup](https://github.com/Optum/kong-expired-token-cleanup) | amyschoen | Amy Schoen | 2020-05-04 | [Fixing Code of Conduct Naming](https://github.com/Optum/kong-expired-token-cleanup/pull/1) |
 | [Optum/kong-path-based-routing](https://github.com/Optum/kong-path-based-routing) | jeremyjpj0916 | null | 2018-06-05 | [Update handler.lua](https://github.com/Optum/kong-path-based-routing/pull/1) |
+| [Optum/kong-spec-expose](https://github.com/Optum/kong-spec-expose) | rsbrisci | Ross Sbriscia | 2020-06-11 | [Fix Schema](https://github.com/Optum/kong-spec-expose/pull/5) |
 | [Optum/kong-splunk-log](https://github.com/Optum/kong-splunk-log) | jeremyjpj0916 | null | 2019-12-12 | [Kong 1.4 Changes](https://github.com/Optum/kong-splunk-log/pull/6) |
 | [Optum/kong-splunk-log](https://github.com/Optum/kong-splunk-log) | jeremyjpj0916 | null | 2019-12-12 | [updating rockfile](https://github.com/Optum/kong-splunk-log/pull/7) |
 | [Optum/kong-splunk-log](https://github.com/Optum/kong-splunk-log) | jeremyjpj0916 | null | 2020-02-18 | [Update basic.lua](https://github.com/Optum/kong-splunk-log/pull/8) |
 | [Optum/kong-upstream-jwt](https://github.com/Optum/kong-upstream-jwt) | brianwyka | Brian Wyka | 2019-05-16 | [Pass More Information in JWT Token Payload](https://github.com/Optum/kong-upstream-jwt/pull/4) |
+| [Optum/kong-upstream-jwt](https://github.com/Optum/kong-upstream-jwt) | rsbrisci | Ross Sbriscia | 2020-06-11 | [Schema updates](https://github.com/Optum/kong-upstream-jwt/pull/20) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | amyschoen | Amy Schoen | 2019-04-16 | [Update Contribution Process](https://github.com/Optum/mockiato/pull/475) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | jhymasree | null | 2018-09-26 | [fix for health checks](https://github.com/Optum/mockiato/pull/53) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | jhymasree | null | 2018-11-01 | [Fix for Issue78 - Check/uncheck Crea…](https://github.com/Optum/mockiato/pull/107) |
@@ -515,6 +441,7 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/mockiato](https://github.com/Optum/mockiato) | Pradeep298 | Pradeep Singh | 2020-03-02 | [R1.2.0 2nd](https://github.com/Optum/mockiato/pull/604) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | Pradeep298 | Pradeep Singh | 2020-03-25 | [new Release](https://github.com/Optum/mockiato/pull/605) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | Pradeep298 | Pradeep Singh | 2020-04-13 | [Handle old unused services](https://github.com/Optum/mockiato/pull/606) |
+| [Optum/mockiato](https://github.com/Optum/mockiato) | Pradeep298 | Pradeep Singh | 2020-05-13 | [prod release](https://github.com/Optum/mockiato/pull/608) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | rrachur | null | 2018-11-09 | [UI Changes to Labels -Issue Fixed](https://github.com/Optum/mockiato/pull/129) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | rrachur | null | 2018-11-12 | [DeletePopUpBrowseSection](https://github.com/Optum/mockiato/pull/132) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | zparks | Zak Parks | 2018-08-17 | [Txncount](https://github.com/Optum/mockiato/pull/16) |
@@ -543,6 +470,8 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/mockiato](https://github.com/Optum/mockiato) | zparks | Zak Parks | 2019-09-18 | [added registry to dockerfile](https://github.com/Optum/mockiato/pull/549) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | zparks | Zak Parks | 2019-09-18 | [pushing npmrc](https://github.com/Optum/mockiato/pull/550) |
 | [Optum/mockiato](https://github.com/Optum/mockiato) | zparks | Zak Parks | 2019-09-18 | [updated .npmrc](https://github.com/Optum/mockiato/pull/548) |
+| [Optum/optumdocs](https://github.com/Optum/optumdocs) | amyschoen | Amy Schoen | 2020-05-05 | [Update CODE_OF_CONDUCT.md](https://github.com/Optum/optumdocs/pull/11) |
+| [Optum/optumdocs](https://github.com/Optum/optumdocs) | eric-hc | Eric Carboni | 2020-03-09 | [docs: adds links to profiles, other minor cleanup](https://github.com/Optum/optumdocs/pull/6) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-02 | [Gh pages source](https://github.com/Optum/optumdocs/pull/1) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-02 | [Update deploy command](https://github.com/Optum/optumdocs/pull/2) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-04 | [new content](https://github.com/Optum/optumdocs/pull/3) |
@@ -551,6 +480,7 @@ Upstream Engineering is an effort to exert positive influences on those open sou
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-09 | [Clean up docs and fix knack link](https://github.com/Optum/optumdocs/pull/7) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-13 | [remove Matt Meyers - capture changes](https://github.com/Optum/optumdocs/pull/9) |
 | [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-03-13 | [update contributions file](https://github.com/Optum/optumdocs/pull/8) |
+| [Optum/optumdocs](https://github.com/Optum/optumdocs) | pkn4645 | P. Kevin Nelson | 2020-05-05 | [update public contribution information](https://github.com/Optum/optumdocs/pull/12) |
 | [Optum/retain-keras](https://github.com/Optum/retain-keras) | amyschoen | Amy Schoen | 2020-05-04 | [Code of Conduct Rename](https://github.com/Optum/retain-keras/pull/10) |
 | [Optum/Snap](https://github.com/Optum/Snap) | phatfly | null | 2020-02-07 | [Bug fixes and new features](https://github.com/Optum/Snap/pull/1) |
 | [Optum/Snap](https://github.com/Optum/Snap) | phatfly | null | 2020-02-09 | [Finished adding support for signing Android apk.](https://github.com/Optum/Snap/pull/2) |
