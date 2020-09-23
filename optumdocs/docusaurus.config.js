@@ -2,7 +2,7 @@ module.exports = {
   title: 'Optum Open Source',
   tagline: 'Open Collaboration to Solve the Biggest Problems in Healthcare',
   url: 'https://optum.github.io',
-  baseUrl: '/optumdocs/',
+  baseUrl: '/',
   favicon: 'img/open_source.svg',
   organizationName: 'Optum', // Usually your GitHub org/user name.
   projectName: 'optumdocs', // Usually your repo name.
