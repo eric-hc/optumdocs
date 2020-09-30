@@ -9,11 +9,25 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.43",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.43",
+    "@docusaurus/core": "^2.0.0-alpha.50",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.50",
+    "@kiwicopple/prism-react-renderer": "github:kiwicopple/prism-react-renderer",
+    "@primer/octicons-react": "^9.6.0",
     "classnames": "^2.2.6",
+    "formik": "^2.1.4",
+    "mermaid": "^8.4.8",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "react-fade-in": "^1.0.0",
+    "react-inlinesvg": "^1.2.0",
+    "react-loading": "^2.0.3",
+    "react-lottie": "^1.2.3",
+    "recharts": "^2.0.0-beta.5",
+    "yup": "^0.28.3"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "babel-plugin-css-modules-transform": "^1.6.2"
   },
   "browserslist": {
     "production": [
