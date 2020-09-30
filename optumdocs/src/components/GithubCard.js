@@ -45,7 +45,7 @@ export default function GithubCard({
   return (
     <div className={'card'}>
       <div className="card__body">
-        <Link to={useBaseUrl('docs/ossprojects/' + title)}>
+        <Link to={handle}>
           {' '}
           <big>{title}</big>
         </Link>

@@ -12,13 +12,13 @@ function Communities() {
   const { siteConfig = {} } = context;
 
   return (
-    <Layout title='Approved Public Communities'>
+    <Layout title='Upstream Engineers'>
       <section className={"section-lg"}>
         <div className='container'>
           <div className={classnames("row", styles.responsiveCentered)}>
             <div className='col col--6 col--offset-3'>
               <h2 className='with-underline'>Upstream Engineers</h2>
-              <p className=''>Our Impact on Public Projects is Growing!</p>
+              <p className=''>Our Impact on Public Projects is Growing Daily!</p>
             </div>
           </div>
           <ContributorGrid></ContributorGrid>
