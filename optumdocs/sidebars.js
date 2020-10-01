@@ -7,7 +7,6 @@
 
 module.exports = {
   someSidebar: {
-    Content: ['optumprojects', 'optumcontributions'],
     Administration: ['optumcoc','optumicla','optumlic'],
   },
 };
