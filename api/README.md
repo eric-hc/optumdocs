@@ -9,15 +9,15 @@ This api is a good starting point for pulling together an automated open source 
 1. Created a simple GitHub repo with only two required files:
   - Approved-communities.md
   - contributors.text
-1. Developers wishing to contribute to an existing public open source project or publish a new original open source project under our Optum GitHub Org then:
+4. Developers wishing to contribute to an existing public open source project or publish a new original open source project under our Optum GitHub Org then:
   - After taking the training class, submit a PR against the contributors.txt file to include their public GitHub identity
   - After obtaining appropriate approvals and endorsements per policy, submit a PR against the approved_communities.md file to have the desired public repo added.
-1. Each morning, this api is executed to perform several tasks:
+5. Each morning, this api is executed to perform several tasks:
   - check each public GitHub id in the contributors.txt file against each approved open source community in the Approved-communities.md file to pull PR records and associated metadata.
   - data is inserted into both a PostgreSQL database and two files are created for publication:
     - communities.json
     - contributors.json
-1. This data is then made available via this api for internal consumption by several docusaurus sites.  The two json files are then pushed to our public [optum.github.io](https://optum.github.io/) site.
+6. This data is then made available via this api for internal consumption by several docusaurus sites.  The two json files are then pushed to our public [optum.github.io](https://optum.github.io/) site.
 
 ![Open Source Contribution Process Flow](oss-process-flow.png)
 
