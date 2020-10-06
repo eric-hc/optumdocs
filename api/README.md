@@ -12,12 +12,6 @@ npm install
 
 The codebase contains example of implementing using TypeORM [TypeORM](http://typeorm.io/) with a postgres database.
 
----
-
-##### TypeORM
-
----
-
 Create a new postgres database with the name `upstreamengineering`\
 (or the name you specified in the enviroment variables)
 
