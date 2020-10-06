@@ -9,7 +9,7 @@ This api is a good starting point for pulling together an automated open source 
 1. Created a simple GitHub repo with only two required files:
   - Approved-communities.md
   - contributors.text
-4. Developers wishing to contribute to an existing public open source project or publish a new original open source project under our Optum GitHub Org then:
+4. Developers wishing to contribute to an existing public open source project or publish a new original open source project under our [Optum GitHub Org](https://github.com/Optum) then:
   - After taking the training class, submit a PR against the contributors.txt file to include their public GitHub identity
   - After obtaining appropriate approvals and endorsements per policy, submit a PR against the approved_communities.md file to have the desired public repo added.
 5. Each morning, this api is executed to perform several tasks:
