@@ -1,4 +1,4 @@
-# Getting started
+# ![Open Source Contribution Process Flow](open_source.svg) Upstream Engineering API
 
 ## Introduction
 
