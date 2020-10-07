@@ -55,6 +55,7 @@ export class ContributorsController
         public gitHubService: GitHubService,
     ) {}
     private _logger = new Logger();
+    private _tmpDir = tmp.dirSync({ unsafeCleanup: true });
     get base(): CrudController<ContributorEntity> {
         return this;
     }
@@ -238,11 +239,10 @@ export class ContributorsController
     }
 
     async pushContributorJson(req: CrudRequest) {
-        const tmpDir = tmp.dirSync({ unsafeCleanup: true });
         const gitTmpDir = await this.gitHubService.checkoutBranch(
             'https://github.com/Optum/optum.github.io',
             'gh-pages-source',
-            tmpDir.name,
+            this._tmpDir.name,
         );
         const contributors = <ContributorEntity[]>(
             await this.base.getManyBase(req)
@@ -258,6 +258,5 @@ export class ContributorsController
             gitTmpDir,
             'Update contributors.json',
         );
-        tmpDir.removeCallback();
     }
 }
