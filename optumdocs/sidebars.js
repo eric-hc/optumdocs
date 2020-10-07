@@ -7,6 +7,6 @@
 
 module.exports = {
   someSidebar: {
-    Administration: ['optumcoc','optumicla','optumlic'],
+    Administration: ['optumcoc','optumicla','optumlic','attribution'],
   },
 };

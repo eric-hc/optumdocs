@@ -62,6 +62,10 @@ module.exports = {
               label: "Project Licensing",
               to: "docs/optumlic",
             },
+            {
+              label: "Code Attribution",
+              to: "docs/attribution",
+            },
           ],
         },
         {
