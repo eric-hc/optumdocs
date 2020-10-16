@@ -1,3 +1,5 @@
+![CD](https://github.com/Optum/optum.github.io/workflows/CD/badge.svg)
+
 # OptumDocs
 Docusaurus site for Optum Org
 
