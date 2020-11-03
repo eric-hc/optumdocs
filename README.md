@@ -1,4 +1,5 @@
-![CD](https://github.com/Optum/optum.github.io/workflows/CD/badge.svg)
+![CD](https://github.com/Optum/optum.github.io/workflows/CD/badge.svg) 
+![Sourcehawk Scan](https://github.com/Optum/optum.github.io/workflows/Sourcehawk%20Scan/badge.svg)
 
 # OptumDocs
 Docusaurus site for Optum Org
