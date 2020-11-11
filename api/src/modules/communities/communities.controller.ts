@@ -44,13 +44,14 @@ export class CommunitiesController implements CrudController<CommunityEntity> {
         return this;
     }
     private _logger = new Logger();
+    private _tmpDir = tmp.dirSync({ unsafeCleanup: true });
 
     @UseInterceptors(CrudRequestInterceptor)
     @Post('/importUpstream')
     async importUpstream(@ParsedRequest() req: CrudRequest) {
         let communities = [];
         const regex = new RegExp(
-            'https://github.com/[a-zA-Z0-9-]*/[a-zA-Z0-9-]*',
+            'https://github.com/[a-zA-Z0-9_.-]*/[a-zA-Z0-9_.-]*',
             'g',
         );
         await axios({
@@ -128,11 +129,10 @@ export class CommunitiesController implements CrudController<CommunityEntity> {
         await this.pushCommunityJson(req);
     }
     async pushCommunityJson(req: CrudRequest) {
-        const tmpDir = tmp.dirSync({ unsafeCleanup: true });
         const gitTmpDir = await this.gitHubService.checkoutBranch(
             'https://github.com/Optum/optum.github.io',
             'gh-pages-source',
-            tmpDir.name,
+            this._tmpDir.name,
         );
 
         const communities = <CommunityEntity[]>await this.base.getManyBase(req);
@@ -149,6 +149,5 @@ export class CommunitiesController implements CrudController<CommunityEntity> {
             gitTmpDir,
             'Update communities.json',
         );
-        tmpDir.removeCallback();
     }
 }
