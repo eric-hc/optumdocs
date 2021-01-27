@@ -56,14 +56,16 @@ export class CommunitiesController implements CrudController<CommunityEntity> {
         );
         await axios({
             url:
-                'https://optum.github.io/master/optumdocs/Approved-Communities.md',
+                'https://optum.github.io/main/optumdocs/Approved-Communities.md',
             method: 'GET',
             responseType: 'blob', // important
-        }).then(response => {
+        }).then((response) => {
             const url = response.data.match(regex);
             communities = Array.from(
                 new Set(
-                    url.map(x => (typeof x === 'string' ? x.toLowerCase() : x)),
+                    url.map((x) =>
+                        typeof x === 'string' ? x.toLowerCase() : x,
+                    ),
                 ),
             );
             for (const match of communities) {

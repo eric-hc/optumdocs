@@ -65,11 +65,10 @@ export class ContributorsController
     async importUpstream(@ParsedRequest() req: CrudRequest) {
         let contributors = [];
         await axios({
-            url:
-                'https://optum.github.io/raw/master/optumdocs/contributors.txt',
+            url: 'https://optum.github.io/raw/main/optumdocs/contributors.txt',
             method: 'GET',
             responseType: 'blob', // important
-        }).then(response => {
+        }).then((response) => {
             contributors = response.data.split('\n').filter(Boolean);
         });
         for (const user of contributors) {
@@ -171,7 +170,7 @@ export class ContributorsController
                 );
                 for (const pullrequest of pr.user.pullRequests.nodes) {
                     const community = communities.filter(
-                        c =>
+                        (c) =>
                             c.githubRepository ===
                             pullrequest.repository.url.toLowerCase(),
                     );
