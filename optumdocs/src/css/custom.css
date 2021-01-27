@@ -21,7 +21,6 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
-*/
 
 /**
  * Root variables
@@ -163,7 +162,7 @@
   --custom-primary-darkest: #10633e;
   --custom-primary-darker: #1c8656;
   --custom-primary-dark: #38bc81;
-  --custom-primary: #3ecf8e;
+  --custom-primary: #c25608;
   --custom-primary-light: #65d9a5;
   --custom-primary-lighter: #9fe7c7;
   --custom-primary-lightest: #c5f1dd;
