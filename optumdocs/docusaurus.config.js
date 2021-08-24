@@ -14,12 +14,24 @@ module.exports = {
         src: "img/Optum(R)_4C.png",
       },
       items: [
-        { to: "communities", label: "Our Projects", position: "left" },
         {
-          to: "contributors",
-          label: "Our Engineers",
           position: "left",
+          label: "Open Source Program Office",
+          items: [
+            { to: "communities", label: "Our Projects" },
+            {
+              to: "contributors",
+              label: "Our Engineers",
+            },
+          ],
         },
+        {
+          to: "/blog",
+          position: "left",
+          label: "Blog",
+          items: [{ to: "blog/tags/culture", label: "Culture" }],
+        },
+
         {
           href: "https://www.youtube.com/watch?v=9sdASFlw0As",
           label: "Why Contribute to Open Source?",
