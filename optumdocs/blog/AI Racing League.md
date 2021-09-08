@@ -16,7 +16,7 @@ In March of 2019, I approached our executive leadership team in Optum Technology
 
 These racing leagues are a great, innovative way to bring STEM mentorship to the next generation of healthcare leaders. The events are filled with fun and laughter. Clearly, these people and kids are having fun learning AI! Our Optum leaders were supportive - we agreed that Optum wants to invest in STEM mentorship. But how would we get the ball rolling to make this happen?
 
-My leadership time guided me to write a proposal. Then they helped me identify a business sponsor in our internal training division. I also met people who were passionate about education and curriculum development, a topic I am also very interested in. We ran our first "AI Racing League" event on Aug. 6th 2019.
+My leadership team guided me to write a proposal. Then they helped me identify a business sponsor in our internal training division. I also met people who were passionate about education and curriculum development, a topic I am also very interested in. We ran our first "AI Racing League" event on Aug. 6th 2019.
 
 We learned a LOT about introducing AI/ML to non-technical staff during this first session. First of all, it was REALLY fun! We also learned how to break all the content and we designed a topic dependency graph of all the topics that we wanted to cover: RC car hardware, Nivida Nano hardware, calibration, cameras, UNIX shell, Python, data analysis, Jupyter Notebooks, computer vision, GPUs, training, model management, model evaluation.
 
