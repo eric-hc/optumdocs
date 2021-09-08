@@ -29,7 +29,10 @@ module.exports = {
           to: "/blog",
           position: "left",
           label: "Blog",
-          items: [{ to: "blog/tags/culture", label: "Culture" }],
+          items: [
+            { to: "blog/tags/culture", label: "Culture" },
+            { to: "blog/tags/ml-ai", label: "ML/AI" },
+          ],
         },
 
         {
