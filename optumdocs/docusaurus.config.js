@@ -31,6 +31,7 @@ module.exports = {
           label: "Blog",
           items: [
             { to: "blog/tags/culture", label: "Culture" },
+            { to: "blog/tags/engineering", label: "Engineering" },
             { to: "blog/tags/ml-ai", label: "ML/AI" },
           ],
         },
