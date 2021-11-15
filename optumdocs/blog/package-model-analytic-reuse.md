@@ -4,7 +4,7 @@ author: Bill Schneider
 author_title: Sr. Principal Engineer
 author_url: https://www.linkedin.com/in/wrschneider
 author_image_url: https://github.com/wrschneider.png
-tags: ML models API
+tags: [ML-AI]
 hide_table_of_contents: false
 ---
 
