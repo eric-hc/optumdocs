@@ -1,5 +1,5 @@
 ---
-title: Packaging models and analytics for reuse:: API vs. Inner Source.
+title: Packaging models and analytics for reuse -  API vs. Inner Source.
 author: Bill Schneider
 author_title: Sr. Principal Engineer
 author_url: https://www.linkedin.com/in/wrschneider
@@ -7,6 +7,10 @@ author_image_url: https://github.com/wrschneider.png
 tags: [ML-AI]
 hide_table_of_contents: false
 ---
+
+### Packaging models and analytics for reuse - API vs. Inner Source.
+
+<!--truncate-->
 
 Various teams in Optum produce models or analytics. Simplified examples of "models":
 
