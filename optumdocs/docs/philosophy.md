@@ -1,7 +1,7 @@
 ---
-id: philosopy
-title: Our Philosopy
-sidebar_label: Philosopy
+id: philosophy
+title: Our Philosophy
+sidebar_label: Philosophy
 ---
 
 ### Philosophy
