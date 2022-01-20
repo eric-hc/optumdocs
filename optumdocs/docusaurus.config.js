@@ -18,6 +18,10 @@ module.exports = {
           position: "left",
           label: "Open Source Program Office",
           items: [
+            { to: "/docs/philosophy", label: "Philosophy" },
+            { to: "/docs/guilds", label: "Guilds" },
+            { to: "/docs/givingprogram", label: "Giving Program" },
+            { to: "/docs/memberships", label: "Memberships" },
             { to: "communities", label: "Our Projects" },
             {
               to: "contributors",
