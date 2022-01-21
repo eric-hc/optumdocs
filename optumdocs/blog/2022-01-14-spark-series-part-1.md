@@ -12,6 +12,8 @@ _Note: this is the first article in a multi-part series. Future installments wil
 
 ### Advantages of Spark
 
+<!--truncate-->
+
 At Optum, we are migrating some of our ETL processes to [Apache Spark](https://spark.apache.org), an open-source framework for distributed computing. Many of these processes were previously running on relational databases, based on SQL queries and stored procedures. The data transformations can range from simple cleansing, to table joins and aggregations, to complex business logic. The results are then stored in a data warehouse for use in analytics applications.
 
 While DBs have their advatanges, there's a limit to how big of a dataset you can process in a given timeframe. That's because databases are generally meant to scale vertically -- when you have a bigger dataset, you get a bigger server. At some point, though, you can't make your server any bigger. Spark, like other big-data platforms, is meant to scale horizontally -- when you get a bigger dataset, you add _more_ servers.
